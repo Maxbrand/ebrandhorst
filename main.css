@@ -3,5 +3,7 @@ a {
 }
 
 img {
-    max-width: 400px;
+    max-width: 200px;
+    margin: auto;
+    display: block;
 }
